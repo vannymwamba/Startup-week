@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@react-google-maps/api": "^2.19.3",
+    "framer-motion": "^11.3.2"
+  }
+}
